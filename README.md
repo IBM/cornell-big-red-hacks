@@ -35,3 +35,7 @@ This page will have all of our IBM resources listed here.
 * Call For Code - https://developer.ibm.com/callforcode/
 * Code and Response - https://developer.ibm.com/code-and-response/
 * CGIU Initiative - https://www.clintonfoundation.org/clinton-global-initiative/meetings/cgi-university
+* IBM Careers - https://www-03.ibm.com/employment/us/entry_level_campus.shtml
+
+# Social Media Info
+#IBMatUCSD #CallforCode #CodeandResponse #HackforGood #TechForGood @CGIU
