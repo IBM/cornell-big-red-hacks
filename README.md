@@ -1,4 +1,4 @@
-# BigRedHacks 2019
+# BigRed//Hacks 2019
 
 <p align="center">
   <img width="280" src="https://raw.githubusercontent.com/IBM/cornell-big-red-hacks/master/images/ibm-logo.png"> <img width="350" src="http://www.mdc.edu/main/images/CGIU_logo_horizontal_460x200_tcm6-105188.jpg"> 
